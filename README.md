@@ -1,2 +1,1 @@
-# Repaso1-Prepcourse
-Este es un repaso de cómo hacer un repositorio en GitHub
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora.
